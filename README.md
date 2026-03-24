@@ -1,4 +1,4 @@
-## AES decryption library for ZeppOS.
+## AES encryption library for ZeppOS.
 
 To import use:
 
